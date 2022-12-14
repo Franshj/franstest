@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Wed, 14 Dec 2022 08:47:02 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 39
+Connection: keep-alive
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
+cache-control: max-age=0, private, must-revalidate
+x-rate-limit-limit: 1000
+x-rate-limit-remaining: 999
+x-rate-limit-reset: 54778
+x-request-id: FzCclFnJnE8fuRgCVjxx
+

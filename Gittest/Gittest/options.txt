@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\FJ Human\Documents\VuGen\Scripts\Gittest
+-IC:\Program Files (x86)\Micro Focus\Virtual User Generator\include
+-ec:\users\fj human\documents\vugen\scripts\gittest\\logfile.log
+c:\users\fj human\documents\vugen\scripts\gittest\\combined_Gittest.c
+c:\users\fj human\documents\vugen\scripts\gittest\\pre_cci.c
